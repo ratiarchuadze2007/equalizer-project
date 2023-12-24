@@ -294,7 +294,8 @@ body{
     .futter_container{
         display: flex;
         justify-content: space-evenly;
-        left: -250px;
+        left: -180px;
+    
         
     }
     .info{
